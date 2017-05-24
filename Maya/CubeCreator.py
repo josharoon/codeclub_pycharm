@@ -1,6 +1,6 @@
 from maya import cmds
 import random
-
+#boo
 def giuseppesFunction(x,y,z):
     for counter in range(10):
         print counter
